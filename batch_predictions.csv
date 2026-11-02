@@ -1,0 +1,21 @@
+PassengerId,Name,Age,SibSp,Parch,Fare,Pclass,Sex,Embarked,Survived,Predicted,Survival_Probability,Predicted_Label
+161,"Cribb, Mr. John Hatfield",44.0,0,1,16.1,3,male,S,0,0,0.1503,Did NOT Survive
+554,"Leeni, Mr. Fahim (""Philip Zenni"")",22.0,0,0,7.225,3,male,C,1,0,0.1403,Did NOT Survive
+861,"Hansen, Mr. Claus Peter",41.0,2,0,14.1083,3,male,S,0,0,0.1152,Did NOT Survive
+242,"Murphy, Miss. Katherine ""Kate""",,1,0,15.5,3,female,Q,1,1,0.6662,Survived
+560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36.0,1,0,17.4,3,female,S,1,0,0.3773,Did NOT Survive
+388,"Buss, Miss. Kate",36.0,0,0,13.0,2,female,S,1,1,0.8979,Survived
+537,"Butt, Major. Archibald Willingham",45.0,0,0,26.55,1,male,S,0,0,0.4258,Did NOT Survive
+699,"Thayer, Mr. John Borland",49.0,1,1,110.8833,1,male,C,0,0,0.4493,Did NOT Survive
+100,"Kantor, Mr. Sinai",34.0,1,0,26.0,2,male,S,0,0,0.1367,Did NOT Survive
+127,"McMahon, Mr. Martin",,0,0,7.75,3,male,Q,0,0,0.1182,Did NOT Survive
+334,"Vander Planke, Mr. Leo Edmondus",16.0,2,0,18.0,3,male,S,0,0,0.1681,Did NOT Survive
+217,"Honkanen, Miss. Eliina",27.0,0,0,7.925,3,female,S,1,0,0.4684,Did NOT Survive
+818,"Mallet, Mr. Albert",31.0,1,1,37.0042,2,male,C,0,0,0.2511,Did NOT Survive
+28,"Fortune, Mr. Charles Alexander",19.0,3,2,263.0,1,male,S,0,0,0.4289,Did NOT Survive
+704,"Gallagher, Mr. Martin",25.0,0,0,7.7417,3,male,Q,0,0,0.1092,Did NOT Survive
+486,"Lefebre, Miss. Jeannie",,3,1,25.4667,3,female,S,0,0,0.2384,Did NOT Survive
+512,"Webber, Mr. James",,0,0,8.05,3,male,S,0,0,0.1156,Did NOT Survive
+434,"Kallio, Mr. Nikolai Erland",17.0,0,0,7.125,3,male,S,0,0,0.0889,Did NOT Survive
+577,"Garside, Miss. Ethel",34.0,0,0,13.0,2,female,S,1,1,0.9006,Survived
+88,"Slocovski, Mr. Selman Francis",,0,0,8.05,3,male,S,0,0,0.1156,Did NOT Survive
